@@ -1,5 +1,7 @@
 # $0-Cloud Local Pre-Commit AI Code Reviewer + Prompt Cache Cost-Saver (Free Companion)
 
+![15-Second Terminal Demo](demo.gif)
+
 Catch bugs before `git commit` for **$0 in cloud tokens**, and stop paying twice for every repeated LLM system prompt.
 
 Why do cloud LLM prompt caches silently miss? Two invisible culprits:
