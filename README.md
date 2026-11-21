@@ -29,7 +29,7 @@ python prompt-cache-toolkit/examples/savings_demo.py
 ---
 
 ## Want the Full Production Kit? ($15 Gumroad Pro Kit)
-Upgrade to **$0-Cloud Local Pre-Commit AI Code Reviewer + Prompt Cache Cost-Saver (v1.0.1)** on Gumroad ($15) to get:
+Upgrade to **[$0-Cloud Local Pre-Commit AI Code Reviewer + Prompt Cache Cost-Saver (v1.0.1)](https://carsonite77.gumroad.com/l/prompt-cache-kit)** on Gumroad ($15) to get:
 - **`git_pre_commit_critic.py`**: Drop-in local Git pre-commit diff reviewer (`--warn-only` / `--strict`) powered by local Ollama at **$0 cloud token cost**.
 - **`savings_tracker.py` (`CacheSavingsMiddleware`)**: Live `$ Saved` stdout counter + SQLite WAL ledger across Anthropic, OpenAI, and Gemini (`[prompt-cache] HIT | Saved $0.0135 this call ($1.42 session total)`).
 - **`prompt-cache-toolkit`**: Full Anthropic (`cache_control`), OpenAI, and Gemini (`CachedContent`) exporters + `CAGEngine` + `SQLiteResponseCache` (WAL mode + TTL).
